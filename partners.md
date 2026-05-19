@@ -2,6 +2,8 @@
 
 Bij **Linux Café Haarlem** geloven we in de kracht van de community. Samen met deze organisaties maken we ICT toegankelijk en duurzaam.
 
+Linux Café Haarlem maakt onderdeel uit van [**Linux Kennis Computer Centrum (LKCC)**](https://st-lkcc.nl/) – Open Source ondersteuning in Voorne aan Zee, Nissewaard,  gebied Rijnmond en Haarlem.
+
 ![Partners](images/partners.webp)
 
 ## Lokale Partners in Haarlem
@@ -18,7 +20,7 @@ Bij **Linux Café Haarlem** geloven we in de kracht van de community. Samen met 
 
 - [**BuurtLinux**](https://buurtlinux.nl/) – Linux hulp, direct in de buurt #NL
 
-- [**Linux Kennis Computer Centrum (LKCC)**](https://st-lkcc.nl/) – Open Source ondersteuning in Voorne aan Zee, Nissewaard en gebied Rijnmond. #NLwest
+- [**Linux Kennis Computer Centrum (LKCC)**](https://st-lkcc.nl/) – Open Source ondersteuning in Voorne aan Zee, Nissewaard,  gebied Rijnmond en Haarlem.
 
 - [**Linux Nijmegen**](https://linuxnijmegen.nl/) – Onze bevriende community in Nijmegen #NLoost
 
