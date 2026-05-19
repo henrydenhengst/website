@@ -1,6 +1,6 @@
 # ANBI Verantwoording
 
-Stichting [Naam] is door de Belastingdienst aangemerkt als Algemeen Nut Beogende Instelling (ANBI). Hierdoor zijn giften aan onze stichting onder voorwaarden aftrekbaar van de inkomsten- of vennootschapsbelasting.
+Stichting Linux Kennis Computer Centrum is door de Belastingdienst aangemerkt als Algemeen Nut Beogende Instelling (ANBI). Hierdoor zijn giften aan onze stichting onder voorwaarden aftrekbaar van de inkomsten- of vennootschapsbelasting.
 
 ---
 
