@@ -34,7 +34,4 @@ We vieren onze groei! De 100ste volger van onze Facebook-groep wint een **Acer S
 🕙 **Tijd:** vrijdag van 10:00 tot 12:00 uur  
 👥 **Toegang:** Gratis voor iedereen!
 
-
-> © 2024 **Stichting [Naam]** | KvK: 12345678 | RSIN: 987654321 | [Privacyverklaring] | [ANBI-status]
-
-
+> © 2026 **Stichting Linux Kennis Computer Centrum** | KvK: 82063214 | SBI 94993 | RSIN: 862322431 |  [ANBI-status](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
