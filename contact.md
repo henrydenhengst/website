@@ -6,13 +6,14 @@ Heeft u vragen over onze projecten, wilt u samenwerken of overweegt u een donati
 
 ## Direct Contact
 * **E-mail:** linuxkcc@gmail.com
-* **Telefoon:** [06 - 12 34 56 78] (Bereikbaar op [Dagen/Tijden])
+* **Telefoon:** Tel: 0181-750 714 / 06-28.92.72.99 (Bereikbaar op [Dagen/Tijden])
 * **Persvoorlichtingen:** [Naam contactpersoon / e-mail]
 
 ### Bezoek- en Postadres
-Stichting [Naam]  
-[Straatnaam + Huisnummer]  
-[Postcode] [Woonplaats]  
+Stichting Linux Kennis Computer Centrum
+Vestigingsadres / correspondentieadres:
+Zalm 7,
+3225 XM Hellevoetsluis.
 
 ---
 
