@@ -25,10 +25,7 @@ In ons beleidsplan leest u hoe wij onze doelstellingen de komende jaren gaan rea
 ---
 
 ## 3. Bestuur & Beloningsbeleid
-**Bestuurssamenstelling:**
-* Voorzitter: [Naam]
-* Secretaris: [Naam]
-* Penningmeester: [Naam]
+**Bestuurssamenstelling:**(https://st-lkcc.nl/over-ons/)
 
 **Beloningsbeleid:**
 De bestuursleden genieten geen beloning voor hun werkzaamheden. Zij hebben wel recht op vergoeding van de door hen in de uitoefening van hun functie gemaakte kosten.
