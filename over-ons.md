@@ -32,7 +32,7 @@ De [FSF](https://www.fsf.org/) staat stevig achter de Right to Repair-beweging, 
 
 # Over Stichting Linux Kennis Computer Centrum
 
-De website  is een officieel initiatief van **Stichting Linux Kennis Computer Centrum**. Op deze pagina leggen we uit wie we zijn, wat ons drijft en hoe onze organisatie is ingericht.
+De website linuxcafehaarlem.nl is een officieel initiatief van **Stichting Linux Kennis Computer Centrum**. Op deze pagina leggen we uit wie we zijn, wat ons drijft en hoe onze organisatie is ingericht.
 
 ---
 
@@ -48,7 +48,7 @@ De website  is een officieel initiatief van **Stichting Linux Kennis Computer Ce
 ---
 
 ## De Stichting
-Stichting [Naam] is opgericht op [Datum] en is gevestigd te [Stad]. Wij zijn een non-profit organisatie, wat betekent dat wij geen winstoogmerk hebben. Alle inkomsten en donaties worden direct ingezet om onze statutaire doelstellingen te verwezenlijken.
+Stichting Linux Kennis Computer Centrum is opgericht op [Datum] en is gevestigd te [Stad]. Wij zijn een non-profit organisatie, wat betekent dat wij geen winstoogmerk hebben. Alle inkomsten en donaties worden direct ingezet om onze statutaire doelstellingen te verwezenlijken.
 
 ### Bestuurssamenstelling
 Conform onze statuten en de normen voor goed bestuur, wordt de stichting geleid door een onbezoldigd bestuur:
