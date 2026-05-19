@@ -6,7 +6,7 @@ Stichting Linux Kennis Computer Centrum is door de Belastingdienst aangemerkt al
 
 ## 1. Algemene Gegevens
 * **Statutaire naam:** Stichting Linux Kennis Computer Centrum
-* **RSIN (Rechtspersonen en Samenwerkingsverbanden Informatie Nummer):** [Nummer invullen]
+* **RSIN (Rechtspersonen en Samenwerkingsverbanden Informatie Nummer):** 862322431
 * **KvK-nummer:** [Nummer invullen]
 * **Contactadres:** [Postadres of Bezoekadres]
 * **E-mailadres:** [E-mailadres]
