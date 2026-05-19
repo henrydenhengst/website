@@ -35,7 +35,7 @@ De bestuursleden genieten geen beloning voor hun werkzaamheden. Zij hebben wel r
 
 ## 4. Verslag van Uitgeoefende Activiteiten
 Hieronder vindt u een overzicht van de projecten en activiteiten die wij het afgelopen jaar hebben uitgevoerd:
-* [Download Jaarverslag [Vorig Jaar] (PDF)](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
+* [Download Jaarverslag [Vorig Jaar] (PDF)](#)
 
 ---
 
