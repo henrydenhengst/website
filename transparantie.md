@@ -41,7 +41,7 @@ Hieronder vindt u een overzicht van de projecten en activiteiten die wij het afg
 
 ## 5. Financiële Verantwoording
 Transparantie over onze middelen is essentieel. Hieronder vindt u de staat van baten en lasten met een toelichting.
-* [Download de Jaarrekening [Vorig Jaar] (PDF)](#)
+* [Download de Jaarrekening [2024] (PDF)](https://st-lkcc.nl/wp-content/uploads/2025/05/lkcc-2024-verlies-en-winst.pdf)
 
 ---
 
