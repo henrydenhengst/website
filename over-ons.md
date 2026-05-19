@@ -48,7 +48,7 @@ De website linuxcafehaarlem.nl is een officieel initiatief van **Stichting Linux
 ---
 
 ## De Stichting
-Stichting Linux Kennis Computer Centrum is opgericht op [Datum] en is gevestigd te [Stad]. Wij zijn een non-profit organisatie, wat betekent dat wij geen winstoogmerk hebben. Alle inkomsten en donaties worden direct ingezet om onze statutaire doelstellingen te verwezenlijken.
+Stichting Linux Kennis Computer Centrum is opgericht op 2 maart 2021 en is gevestigd te Hellevoetsluis. Wij zijn een non-profit organisatie, wat betekent dat wij geen winstoogmerk hebben. Alle inkomsten en donaties worden direct ingezet om onze statutaire doelstellingen te verwezenlijken.
 
 ### Bestuurssamenstelling
 Conform onze statuten en de normen voor goed bestuur, wordt de stichting geleid door een onbezoldigd [bestuur](https://st-lkcc.nl/over-ons/).
