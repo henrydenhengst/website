@@ -5,7 +5,7 @@ Heeft u vragen over onze projecten, wilt u samenwerken of overweegt u een donati
 ---
 
 ## Direct Contact
-* **E-mail:** [info@stichtingnaam.nl]
+* **E-mail:** linuxkcc@gmail.com
 * **Telefoon:** [06 - 12 34 56 78] (Bereikbaar op [Dagen/Tijden])
 * **Persvoorlichtingen:** [Naam contactpersoon / e-mail]
 
