@@ -20,7 +20,7 @@ De stichting heeft als doel:
 
 **Beleidsplan:**
 In ons beleidsplan leest u hoe wij onze doelstellingen de komende jaren gaan realiseren.
-* [Download het Beleidsplan [Jaartal-Jaartal] (PDF)](#)
+* [Download het Beleidsplan [2025-2026] (PDF)](https://st-lkcc.nl/wp-content/uploads/2025/05/beleidsplan-lkcc.pdf)
 
 ---
 
