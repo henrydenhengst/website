@@ -1,4 +1,4 @@
-# Contact met Stichting [Naam]
+# Contact met Stichting Linux Kennis Computer Centrum
 
 Heeft u vragen over onze projecten, wilt u samenwerken of overweegt u een donatie? Wij staan u graag te woord.
 
