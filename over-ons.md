@@ -30,9 +30,9 @@ Dat vinden we belangrijk, want het laat zien dat je met bewuste keuzes en een be
 
 De [FSF](https://www.fsf.org/) staat stevig achter de Right to Repair-beweging, en daar sluiten wij ons bij aan. Ook Linux Café Haarlem gelooft in het recht om apparaten te repareren, te hergebruiken en zo lang mogelijk in gebruik te houden.
 
-# Over Stichting [Naam van de Stichting]
+# Over Stichting Linux Kennis Computer Centrum
 
-De website [Naam van de website] is een officieel initiatief van **Stichting [Naam]**. Op deze pagina leggen we uit wie we zijn, wat ons drijft en hoe onze organisatie is ingericht.
+De website  is een officieel initiatief van **Stichting Linux Kennis Computer Centrum**. Op deze pagina leggen we uit wie we zijn, wat ons drijft en hoe onze organisatie is ingericht.
 
 ---
 
