@@ -33,7 +33,7 @@ Voor officiële correspondentie en verificatie vindt u hieronder onze juridische
 ---
 
 ## Privacy & Gegevens
-Stichting [Naam] gaat zorgvuldig om met uw persoonsgegevens. Wanneer u contact met ons opneemt, worden uw gegevens uitsluitend gebruikt om uw vraag te beantwoorden. 
+Stichting Linux Kennis Computer Centrum gaat zorgvuldig om met uw persoonsgegevens. Wanneer u contact met ons opneemt, worden uw gegevens uitsluitend gebruikt om uw vraag te beantwoorden. 
 
 * Zie onze [Privacyverklaring](/privacy) voor meer informatie over hoe wij uw data beschermen.
 
