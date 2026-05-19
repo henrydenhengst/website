@@ -35,7 +35,7 @@ De bestuursleden genieten geen beloning voor hun werkzaamheden. Zij hebben wel r
 
 ## 4. Verslag van Uitgeoefende Activiteiten
 Hieronder vindt u een overzicht van de projecten en activiteiten die wij het afgelopen jaar hebben uitgevoerd:
-* [Download Jaarverslag [Vorig Jaar] (PDF)](#)
+* [Download Jaarverslag [2024] (PDF)](https://st-lkcc.nl/wp-content/uploads/2025/05/Jaarverslag-2024.pdf)
 
 ---
 
