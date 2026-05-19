@@ -20,8 +20,6 @@ Linux Café Haarlem maakt onderdeel uit van [**Linux Kennis Computer Centrum (LK
 
 - [**BuurtLinux**](https://buurtlinux.nl/) – Linux hulp, direct in de buurt #NL
 
-- [**Linux Kennis Computer Centrum (LKCC)**](https://st-lkcc.nl/) – Open Source ondersteuning in Voorne aan Zee, Nissewaard,  gebied Rijnmond en Haarlem.
-
 - [**Linux Nijmegen**](https://linuxnijmegen.nl/) – Onze bevriende community in Nijmegen #NLoost
 
 - [**Linux 020**](https://linux020.nl/) – De Amsterdamse Linux-hub #NLwest
