@@ -29,4 +29,5 @@ Bij **Linux Café Haarlem** geloven we in de kracht van de community. Samen met 
 Wij zijn altijd op zoek naar andere Linux- en Open Source Software-activiteiten in het land om mee samen te werken. Ken je een initiatief of ben je er zelf bij betrokken? Neem dan gerust [contact met ons op](link-naar-contactpagina).
 
 
-> © 2024 **Stichting [Naam]** | KvK: 12345678 | RSIN: 987654321 | [Privacyverklaring] | [ANBI-status]
+
+> © 2026 **Stichting Linux Kennis Computer Centrum** | KvK: 82063214 | SBI 94993 | RSIN: 862322431 |  [ANBI-status](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
