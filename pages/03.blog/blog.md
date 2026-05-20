@@ -1,6 +1,20 @@
+---
+sitemap:
+    lastmod: '20-05-2026 14:44'
+content:
+    items:
+        - '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
+---
+
 # Updates & Community 📢
 
-![Updates Community](images/updates-community.webp)
+![Updates Community](updates-community.webp)
 
 Bij Linux Café Haarlem zitten we niet stil. We houden niet van dubbel werk, dus onze laatste nieuwtjes, projecten en "reddingsoperaties" van oude laptops vind je direct op onze sociale kanalen.
 
