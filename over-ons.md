@@ -83,4 +83,8 @@ We hopen met Linux Café Haarlem een plek te zijn waar techniek toegankelijk bli
 
 Samen leren, samen bouwen en samen laten zien dat oud nog lang niet af is.
 
+---
+
+[Cookie Beleid (EU)](https://st-lkcc.nl/cookiebeleid-eu/)
+
 > © 2026 **Stichting Linux Kennis Computer Centrum** | KvK: 82063214 | SBI 94993 | RSIN: 862322431 |  [ANBI-status](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
