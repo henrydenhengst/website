@@ -30,4 +30,8 @@ Lijkt het je wat om een paar uur per maand (of elke week, wat jij wilt!) mee te 
 Stuur ons een berichtje via de [Facebook-groep](https://www.facebook.com/groups/linuxcafehaarlem/) of kom gewoon even langs bij Het Open Huis Haarlem tussen 10:00 en 12:00. We kijken uit naar je komst!
 
 
+---
+
+[Cookie Beleid (EU)](https://st-lkcc.nl/cookiebeleid-eu/)
+
 > © 2026 **Stichting Linux Kennis Computer Centrum** | KvK: 82063214 | SBI 94993 | RSIN: 862322431 |  [ANBI-status](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
