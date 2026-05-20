@@ -1,8 +1,13 @@
+---
+sitemap:
+    lastmod: '20-05-2026 14:45'
+---
+
 # Help ons mee bouwen
 
 Soms is er maar een kleine upgrade nodig, zoals een SSD, wat extra geheugen, een wifi-dongle of een bluetooth-dongle, om een machine echt goed te laten werken.
 
-![Sponsors](images/sponsors.webp)
+![Sponsors](sponsors.webp)
 
 Daarvoor zijn we soms afhankelijk van een sponsor. Op andere momenten bewaren we hardware eerst even op voorraad, totdat we alles bij elkaar hebben om er samen een mooie, goed werkende machine van te maken.
 
