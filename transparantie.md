@@ -30,7 +30,6 @@ In ons beleidsplan leest u hoe wij onze doelstellingen de komende jaren gaan rea
 
 **Beloningsbeleid:**
 De bestuursleden genieten geen beloning voor hun werkzaamheden. Zij hebben wel recht op vergoeding van de door hen in de uitoefening van hun functie gemaakte kosten.
-[Indien van toepassing: Personeel wordt betaald volgens de CAO [Naam].]
 
 ---
 
