@@ -1,42 +1,41 @@
 ---
 title: Home
-body_classes: title-center title-h1h2
+metadata:
+    description: "Linux Café Haarlem: De gezelligste plek om Linux te leren, hardware te redden en samen aan open-source projecten te werken."
+    'og:image': 'https://linuxcafehaarlem.nl/user/pages/images/poster-social.jpg'
+    'og:title': "Welkom bij Linux Café Haarlem 🐧"
+    'og:type': website
 ---
 
-# Say Hello to Grav!
-## installation successful...
+# Welkom bij Linux Café Haarlem 🐧
+**De plek waar code en koffie samenkomen.**
 
-Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **Quark** theme to get you started.
+Heb jij nog een oude laptop of desktop computer ergens in huis liggen? Krijg je geen ondersteuning meer van Microsoft, Apple of Google? Gooi hem niet weg! Met Linux op je hardware kun je gewoon weer verder. 
 
-!! If you see a **404 Error** when you click `Typography` in the menu, please refer to the [troubleshooting guide](http://learn.getgrav.org/troubleshooting/page-not-found).
+Zelf gebruik ik hardware van ruim 10 jaar oud en het draait weer als een treintje. Het leuke is... dat kun jij ook!
 
-### Find out all about Grav
+### Wat kun je verwachten?
+* **Samen leren & bouwen:** We werken in kleine groepjes (max. 4 personen) voor persoonlijke aandacht.
+* **Hulp bij installatie:** Nog geen Linux? Geen probleem, wij helpen je stap voor stap.
+* **Duurzaamheid:** Geef je computer een tweede kans. Het is beter voor je portemonnee én het milieu.
+* **Gezelligheid:** Geen vaste lessen of verplicht niveau—iedereen helpt elkaar op zijn of haar eigen tempo.
 
-* Learn about **Grav** by checking out our dedicated [Learn Grav](http://learn.getgrav.org) site.
-* Download **plugins**, **themes**, as well as other Grav **skeleton** packages from the [Grav Downloads](http://getgrav.org/downloads) page.
-* Check out our [Grav Development Blog](http://getgrav.org/blog) to find out the latest goings on in the Grav-verse.
+---
 
-!!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
+## 🎁 Winactie: De 100ste volger wint!
+We vieren onze groei! De 100ste volger van onze Facebook-groep wint een **Acer Spin 1** laptop, volledig klaargestoomd met Linux.
+![Win een Laptop](images/win-een-laptop.webp)
+👉 [**Sluit je aan op Facebook**](https://www.facebook.com/groups/linuxcafehaarlem/)
 
-### Edit this Page
+---
 
-To edit this page, simply navigate to the folder you installed **Grav** into, and then browse to the `user/pages/01.home` folder and open the `default.md` file in your [editor of choice](http://learn.getgrav.org/basics/requirements).  You will see the content of this page in [Markdown format](http://learn.getgrav.org/content/markdown).
+### Volgende bijeenkomst:
+📍 **Locatie:** Het Open Huis Haarlem  
+🕙 **Tijd:** vrijdag van 10:00 tot 12:00 uur  
+👥 **Toegang:** Gratis voor iedereen!
 
-### Create a New Page
+---
 
-Creating a new page is a simple affair in **Grav**.  Simply follow these simple steps:
+[Cookie Beleid (EU)](https://st-lkcc.nl/cookiebeleid-eu/)
 
-1. Navigate to your pages folder: `user/pages/` and create a new folder.  In this example, we will use [explicit default ordering](http://learn.getgrav.org/content/content-pages) and call the folder `03.mypage`.
-2. Launch your text editor and paste in the following sample code:
-
-        ---
-        title: My New Page
-        ---
-        # My New Page!
-
-        This is the body of **my new page** and I can easily use _Markdown_ syntax here.
-
-3. Save this file in the `user/pages/03.mypage/` folder as `default.md`. This will tell **Grav** to render the page using the **default** template.
-4. That is it! Reload your browser to see your new page in the menu.
-
-! NOTE: The page will automatically show up in the Menu after the "Typography" menu item. If you wish to change the name that shows up in the Menu, simple add: `menu: My Page` between the dashes in the page content. This is called the YAML front matter, and it is where you configure page-specific options.
+> © 2026 **Stichting Linux Kennis Computer Centrum** | KvK: 82063214 | SBI 94993 | RSIN: 862322431 |  [ANBI-status](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
