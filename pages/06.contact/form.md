@@ -37,6 +37,8 @@ form:
             subject: "[Contactformulier Website] {{ form.value.name|e }}"
             body: "{% include 'forms/data.html.twig' %}"
         - redirect: /contact/bedankt
+process:
+    twig: true
 ---
 
 # Contact met Stichting Linux Kennis Computer Centrum
@@ -69,7 +71,7 @@ Voor officiële correspondentie en verificatie vindt u hieronder onze juridische
 
 ## Stuur ons een bericht
 
-{% include "forms/form.html.twig" %}
+{% include "forms/form.html.twig" with { form: page.form } %}
 
 ---
 
