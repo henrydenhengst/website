@@ -1,10 +1,12 @@
 ---
-title: Praktische Informatie
+title: 'Praktische Informatie'
+sitemap:
+    lastmod: '20-05-2026 14:43'
 ---
 
 # Praktische Informatie & Locatie
 
-![Info Locatie](images/info-locatie.webp)
+![Info Locatie](info-locatie.webp)
 
 Wil je langskomen? Je bent iedere week van harte welkom voor hulp, advies of gewoon een goede kop koffie.
 
