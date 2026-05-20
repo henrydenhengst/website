@@ -40,10 +40,10 @@ De website linuxcafehaarlem.nl is een officieel initiatief van **Stichting Linux
 *Wat willen we bereiken en waarom?*
 
 **Missie:**
-[Beschrijf hier in 2-3 zinnen het hoofddoel van de stichting. Bijvoorbeeld: "Het verbeteren van de lokale biodiversiteit door middel van educatie en burgerinitiatieven."]
+Het hoofddoel van de stichting is het bevorderen van digitale participatie en veiligheid voor minderbedeelden, MKB met een ANBI-taak en digitaal kwetsbare personen. Dit doet zij door herbruikbare IT-apparatuur in te zamelen, te voorzien van een veilig Linux-besturingssysteem en kosteloos uit te leveren. Daarnaast leidt de stichting vrijwilligers en stagiaires op om digitale vaardigheden en bewustwording over internetveiligheid breed te verspreiden.
 
 **Visie:**
-[Beschrijf hoe de wereld eruitziet als jullie succesvol zijn. Bijvoorbeeld: "Een samenleving waarin elke inwoner bijdraagt aan een groene en gezonde leefomgeving."]
+Een samenleving waarin iedereen – ongeacht inkomen of digitale achtergrond – toegang heeft tot veilige, werkende IT-apparatuur en daardoor volwaardig kan meedoen aan het digitale verkeer. Oude computers en elektronica worden niet langer weggegooid, maar hergebruikt en gerecycled, wat leidt tot minder e-waste en een kleinere ecologische voetafdruk. Vrijwilligers en stagiaires helpen buurthuizen, kwetsbare groepen en kleine ondernemers om digitaal weerbaar en zelfredzaam te zijn.
 
 ---
 
