@@ -28,4 +28,6 @@ Wanneer je aankomt bij de **Prof. Boumanstraat 1A**, loop je naar de hoofdingang
 
 ---
 
+[Cookie Beleid (EU)](https://st-lkcc.nl/cookiebeleid-eu/)
+
 > © 2026 **Stichting Linux Kennis Computer Centrum** | KvK: 82063214 | SBI 94993 | RSIN: 862322431 |  [ANBI-status](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
