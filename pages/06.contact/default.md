@@ -1,5 +1,6 @@
 ---
 title: Contact
+template: form
 form:
     name: contact-form
     action: /contact/bedankt
@@ -81,4 +82,3 @@ Stichting Linux Kennis Computer Centrum gaat zorgvuldig om met uw persoonsgegeve
 * Zie onze [Privacyverklaring](../privacy) voor meer informatie over hoe wij uw data beschermen.
 
 > © 2026 **Stichting Linux Kennis Computer Centrum** | KvK: 82063214 | SBI 94993 | RSIN: 862322431 | [ANBI-status](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
-> 
