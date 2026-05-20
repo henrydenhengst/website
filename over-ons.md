@@ -63,8 +63,7 @@ Het beloningsbeleid is te vinden op [de transparantiepagina](transparantie.md).
 ---
 
 ## Documenten & Transparantie
-Als stichting hechten wij veel waarde aan openheid. Onze meest recente jaarverslagen en beleidsplannen zijn te vinden op [de transparantiepagina](transparantie.md)
-
+Als stichting hechten wij veel waarde aan openheid. Onze meest recente jaarverslagen en beleidsplannen zijn te vinden op [de transparantiepagina](transparantie.md).
 
 ---
 
