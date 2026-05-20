@@ -38,4 +38,8 @@ Vind je het leuk wat we doen? Word dan lid van onze [Facebook-groep](https://www
 
 Klaar om het algoritme te paaien! 😉
 
+---
+
+[Cookie Beleid (EU)](https://st-lkcc.nl/cookiebeleid-eu/)
+
 > © 2026 **Stichting Linux Kennis Computer Centrum** | KvK: 82063214 | SBI 94993 | RSIN: 862322431 |  [ANBI-status](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
