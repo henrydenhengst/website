@@ -11,9 +11,6 @@ Je bericht is succesvol verzonden naar het team van Linux Café Haarlem. We hebb
 ### Wat gebeurt er nu?
 Eén van onze vrijwilligers bekijkt je vraag of aanmelding zo snel mogelijk. Meestal heb je binnen 2 tot 3 dagen een reactie van ons.
 
-* **Heb je je aangemeld voor de komende vrijdag?** We laten je snel weten of er nog een plekje vrij is in de groepjes.
-* **Heb je een technische vraag?** We kijken alvast of we de juiste expert voor je kunnen koppelen aanstaande vrijdag.
-
 ---
 
 ### Blijf op de hoogte
