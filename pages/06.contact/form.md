@@ -39,6 +39,8 @@ form:
         - redirect: /contact/bedankt
 process:
     twig: true
+# DIT IS DE MAGISCHE REGEL VOOR QUARK:
+never_with_form: true
 ---
 
 # Contact met Stichting Linux Kennis Computer Centrum
@@ -78,6 +80,6 @@ Voor officiële correspondentie en verificatie vindt u hieronder onze juridische
 ## Privacy & Gegevens
 Stichting Linux Kennis Computer Centrum gaat zorgvuldig om met uw persoonsgegevens. Wanneer u contact met ons opneemt, worden uw gegevens uitsluitend gebruikt om uw vraag te beantwoorden. 
 
-* Zie onze [Privacyverklaring](../privacy) voor meer informatie over hoe wij uw data protecten.
+* Zie onze [Privacyverklaring](../privacy) voor meer informatie over hoe wij uw data beschermen.
 
 > © 2026 **Stichting Linux Kennis Computer Centrum** | KvK: 82063214 | SBI 94993 | RSIN: 862322431 | [ANBI-status](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
