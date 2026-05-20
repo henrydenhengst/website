@@ -58,18 +58,13 @@ Conform onze statuten en de normen voor goed bestuur, wordt de stichting geleid 
 ---
 
 ## Beloningsbeleid
-Stichting [Naam] vindt transparantie essentieel. De bestuursleden ontvangen geen beloning voor hun werkzaamheden. Zij hebben uitsluitend recht op vergoeding van de door hen in de uitoefening van hun functie gemaakte kosten (onkosstenvergoeding). 
-
-[Indien van toepassing: "Eventueel personeel wordt gecompenseerd volgens de CAO [Naam sector]."]
+Het beloningsbeleid is te vinden op [de transparantiepagina](transparantie.md).
 
 ---
 
 ## Documenten & Transparantie
-Als stichting hechten wij veel waarde aan openheid. Onze meest recente jaarverslagen en beleidsplannen zijn hieronder in te zien:
+Als stichting hechten wij veel waarde aan openheid. Onze meest recente jaarverslagen en beleidsplannen zijn te vinden op [de transparantiepagina](transparantie.md)
 
-* [Beleidsplan 2024-2026 (PDF)](#)
-* [Jaarverslag [Jaartal] (PDF)](#)
-* [Statuten van de Stichting (PDF)](#)
 
 ---
 
