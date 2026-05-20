@@ -24,4 +24,8 @@ Je hoeft je systeem niet te rebooten. Je kunt eenvoudig terugkeren naar de bewoo
 
 *Mocht je denken dat dit een fout aan onze kant is, laat het ons dan even weten via de [Facebook-groep](https://www.facebook.com/groups/linuxcafehaarlem/).*
 
+---
+
+[Cookie Beleid (EU)](https://st-lkcc.nl/cookiebeleid-eu/)
+
 > © 2026 **Stichting Linux Kennis Computer Centrum** | KvK: 82063214 | SBI 94993 | RSIN: 862322431 |  [ANBI-status](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
