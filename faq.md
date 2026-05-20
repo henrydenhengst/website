@@ -40,4 +40,8 @@ Als je laptop traag is door software, lossen we dat op met Linux. Is je scherm k
 ### 10. Kost deelname echt helemaal niets?
 De hulp en de software zijn 100% gratis. We zijn te gast bij Het Open Huis Haarlem, dus we waarderen het wel enorm als je een kop koffie of thee bestelt aan de bar om de locatie te steunen.
 
+---
+
+[Cookie Beleid (EU)](https://st-lkcc.nl/cookiebeleid-eu/)
+
 > © 2026 **Stichting Linux Kennis Computer Centrum** | KvK: 82063214 | SBI 94993 | RSIN: 862322431 |  [ANBI-status](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
