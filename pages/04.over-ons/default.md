@@ -1,10 +1,15 @@
+---
+sitemap:
+    lastmod: '20-05-2026 14:45'
+---
+
 # Over ons
 
 ## Linux Café Haarlem – Samen leren, bouwen en gezelligheid
 
 Linux Café Haarlem is een kleinschalige en gezellige groep tech-liefhebbers en beginners in de Muggenstad. Voor ons is Linux meer dan alleen een besturingssysteem; het staat voor vrijheid, samenwerking, hergebruik en slim omgaan met technologie.
 
-![Over Ons](images/over-ons.webp)
+![Over Ons](over-ons.webp)
 
 We vinden het leuk om kennis te delen, samen te leren en elkaar te helpen. Daarbij staat laagdrempeligheid voorop: iedereen mag meedoen, ongeacht ervaring of achtergrond.
 
