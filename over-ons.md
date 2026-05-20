@@ -74,7 +74,7 @@ Als stichting hechten wij veel waarde aan openheid. Onze meest recente jaarversl
 ---
 
 > **Vragen over onze organisatie?**
-> Neem gerust contact op met ons secretariaat via [e-mailadres].
+> Neem gerust contact op met ons secretariaat via geertvanos61@gmail.com .
 
 
 ## Samen verder
