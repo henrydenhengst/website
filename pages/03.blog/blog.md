@@ -1,4 +1,5 @@
 ---
+title: 'Updates & Community'
 sitemap:
     lastmod: '20-05-2026 14:44'
 content:
@@ -10,13 +11,18 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+# Zorgt ervoor dat Quark de eerste afbeelding NIET als paginagrote achtergrond dwingt
+hero_classes: 'text-dark'
+show_sidebar: false
 ---
 
 # Updates & Community 📢
 
-![Updates Community](updates-community.webp)
+{{ page.media['updates-community.webp'].html('Updates Community', 'Updates & Community Poster', 'img-fluid-blog') }}
 
 Bij Linux Café Haarlem zitten we niet stil. We houden niet van dubbel werk, dus onze laatste nieuwtjes, projecten en "reddingsoperaties" van oude laptops vind je direct op onze sociale kanalen.
+
+---
 
 ### 📸 Onze 'Blog' op Facebook
 Wil je zien wat we afgelopen vrijdag hebben gedaan? Of ben je benieuwd naar de laatste succesverhalen van hardware die we weer tot leven hebben gewekt? Ander Open Source Software nieuws? Volg onze Facebook-groep. Dit is onze plek voor foto's, aankondigingen en de lopende winacties.
