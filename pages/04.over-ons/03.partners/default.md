@@ -1,10 +1,15 @@
+---
+sitemap:
+    lastmod: '20-05-2026 14:47'
+---
+
 # Onze Partners
 
 Bij **Linux Café Haarlem** geloven we in de kracht van de community. Samen met deze organisaties maken we ICT toegankelijk en duurzaam.
 
 Linux Café Haarlem maakt onderdeel uit van [**Linux Kennis Computer Centrum (LKCC)**](https://st-lkcc.nl/) – Open Source ondersteuning in Voorne aan Zee, Nissewaard,  gebied Rijnmond en Haarlem.
 
-![Partners](images/partners.webp)
+![Partners](partners.webp)
 
 ## Lokale Partners in Haarlem
 
