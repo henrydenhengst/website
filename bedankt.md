@@ -17,7 +17,7 @@ Eén van onze vrijwilligers bekijkt je vraag of aanmelding zo snel mogelijk. Mee
 Terwijl je wacht op ons antwoord, kun je alvast een kijkje nemen op onze sociale kanalen voor de laatste updates en foto's:
 
 👉 [Volg ons op Facebook](https://www.facebook.com/groups/linuxcafehaarlem/)  
-👉 [Join de gesprekken op Telegram](https://t.me/+6RERHbiTNRk5MjQ0)
+👉 [Neem deel aan de gesprekken op Telegram](https://t.me/+6RERHbiTNRk5MjQ0)
 
 [⬅️ Terug naar de Homepage](/)
 
