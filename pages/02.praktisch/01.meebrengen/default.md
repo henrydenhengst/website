@@ -1,6 +1,11 @@
+---
+sitemap:
+    lastmod: '20-05-2026 14:46'
+---
+
 # Wat neem je mee? 🎒
 
-![Meenemen](images/meenemen.webp)
+![Meenemen](meenemen.webp)
 
 Om het meeste uit je ochtend bij Linux Café Haarlem te halen, raden we je aan om de volgende zaken mee te nemen:
 
