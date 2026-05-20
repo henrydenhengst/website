@@ -1,10 +1,12 @@
 ---
 title: Home
 metadata:
-    description: "Linux Café Haarlem: De gezelligste plek om Linux te leren, hardware te redden en samen aan open-source projecten te werken."
+    description: 'Linux Café Haarlem: De gezelligste plek om Linux te leren, hardware te redden en samen aan open-source projecten te werken.'
     'og:image': 'https://linuxcafehaarlem.nl/user/pages/images/poster-social.jpg'
-    'og:title': "Welkom bij Linux Café Haarlem 🐧"
+    'og:title': 'Welkom bij Linux Café Haarlem 🐧'
     'og:type': website
+sitemap:
+    lastmod: '20-05-2026 14:44'
 ---
 
 # Welkom bij Linux Café Haarlem 🐧
@@ -24,7 +26,7 @@ Zelf gebruik ik hardware van ruim 10 jaar oud en het draait weer als een treintj
 
 ## 🎁 Winactie: De 100ste volger wint!
 We vieren onze groei! De 100ste volger van onze Facebook-groep wint een **Acer Spin 1** laptop, volledig klaargestoomd met Linux.
-![Win een Laptop](images/win-een-laptop.webp)
+![Win een Laptop](win-een-laptop.webp)
 👉 [**Sluit je aan op Facebook**](https://www.facebook.com/groups/linuxcafehaarlem/)
 
 ---
