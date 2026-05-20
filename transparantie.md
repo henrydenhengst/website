@@ -17,7 +17,7 @@ Stichting Linux Kennis Computer Centrum is door de Belastingdienst aangemerkt al
 
 ## 2. Doelstelling & Beleidsplan
 De stichting heeft als doel:
-> [Citaat uit de statuten over het doel van de stichting]
+> Het maatschappelijk bevorderen van digitale zelfredzaamheid en duurzaam IT-hergebruik, door het inzamelen, repareren en verstrekken van IT-apparatuur aan minderbedeelden en MKB met een ANBI-taak, het geven van voorlichting over veilige besturingssystemen en internet, en het opleiden van vrijwilligers en stagiaires in IT-vaardigheden.
 
 **Beleidsplan:**
 In ons beleidsplan leest u hoe wij onze doelstellingen de komende jaren gaan realiseren.
