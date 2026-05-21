@@ -1,20 +1,4 @@
 ---
-title: 'Updates & Community'
-sitemap:
-    lastmod: '20-05-2026 14:44'
-content:
-    items:
-        - '@self.children'
-    limit: 5
-    order:
-        by: date
-        dir: desc
-    pagination: true
-    url_taxonomy_filters: true
-# Zorgt ervoor dat Quark de eerste afbeelding NIET als paginagrote achtergrond dwingt
-hero_classes: 'text-dark'
-show_sidebar: false
----
 
 # Updates & Community 📢
 
