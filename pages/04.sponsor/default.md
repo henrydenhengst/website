@@ -30,7 +30,7 @@ Een eigen ruimte in Schalkwijk zou helemaal geweldig zijn. Als een organisatie o
 
 Iedere bijdrage helpt, groot of klein. Of het nu gaat om financiële steun, onderdelen, oude hardware of een ruimte om in te werken: samen maken we er iets moois van.
 
-Heeft u interesse om ons te steunen? Vul dan het formulier in en laat het ons weten — elke bijdrage maakt verschil.
+Heeft u interesse om ons te steunen? Vul dan het [formulier](/contact) in en laat het ons weten — elke bijdrage maakt verschil.
 
 ---
 
