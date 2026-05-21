@@ -37,7 +37,7 @@ Er is geen addertje. De filosofie achter open-source is dat software een publiek
 Absoluut niet! De meeste mensen die bij ons komen zijn beginners. Het doel van het café is juist om elkaar te helpen. Of je nu komt met een concrete vraag of gewoon even wilt kijken wat Linux is: je bent welkom. We geloven in vrije keuze en privacy, dus je kunt ons ook online vinden via de platformen die bij jou passen. Volg onze verhalen en foto's in de [Facebook-groep](https://www.facebook.com/groups/linuxcafehaarlem/) of praat mee via [Matrix](https://matrix.to/#/@linuxcafehaarlem:matrix.org) voor het échte decentrale open-source gevoel.
 
 ### 8. Moet ik me vooraf aanmelden voor de vrijdagmorgen?
-Meld je vooraf aan, want we willen kleinschalig blijven en iedereen persoonlijke aandacht geven (max. 4 personen per groepje). Zo weten we zeker dat er een stoel en een expert voor je klaarstaan. Aanmelden kan heel eenvoudig via:
+Moet niet, maar meld je vooraf aan (indien mogelijk), want we willen kleinschalig blijven en iedereen persoonlijke aandacht geven (max. 4 personen per groepje). Zo weten we zeker dat er een stoel en een expert voor je klaarstaan. Aanmelden kan heel eenvoudig via:
 * **Telegram:** [Join onze Telegram-groep](https://t.me/+6RERHbiTNRk5MjQ0) (ons mainstream kanaal).
 * **Signal:** [Word lid van onze Signal-groep](https://signal.group/#CjQKIIjfzVd0i9mlIPP8iJJqj39TXuB4sGXy-Mg1WoP7lmq_EhB7CCEG1Te4nOlI6Eh9253w) (voor de privacy-bewuste gebruiker).
 
