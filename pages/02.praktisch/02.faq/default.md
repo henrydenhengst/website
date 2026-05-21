@@ -1,11 +1,11 @@
 ---
 sitemap:
-    lastmod: '20-05-2026 14:46'
+    lastmod: '21-05-2026 11:00'
 ---
 
 # Veelgestelde Vragen (FAQ) 🐧
 
-Heb je een vraag over Linux, onze bijeenkomsten of je oude hardware? Grote kans dat het antwoord hieronder staat. Staat je vraag er niet bij? Kom dan gewoon langs op vrijdag of stel hem in onze Facebook-groep!
+Heb je een vraag over Linux, onze bijeenkomsten of je oude hardware? Grote kans dat het antwoord hieronder staat. Staat je vraag er niet bij? Kom dan gewoon langs op vrijdag of stel hem in een van onze chat- of sociale kanalen!
 
 ![FAQ](faq.webp)
 
@@ -15,7 +15,7 @@ Heb je een vraag over Linux, onze bijeenkomsten of je oude hardware? Grote kans 
 Linux is een gratis en open-source besturingssysteem. Je kunt het zien als een alternatief voor Windows of macOS. Het grote verschil is dat Linux niet eigendom is van één bedrijf. Het wordt door duizenden vrijwilligers en bedrijven over de hele wereld gebouwd. Het is veilig, privacy-vriendelijk en vaak veel sneller op oudere computers.
 
 ### 2. Is Linux niet heel erg ingewikkeld?
-Vroeger moest je veel typen in zwarte schermen (de terminal), maar dat is allang niet meer zo. Moderne versies van Linux zien er prachtig uit en werken bijna hetzelfde als Windows. Je hebt een startmenu, een taakbalk en een 'app store' waar je met één klik programma's installeert. Zoals we al zeiden: onze (schoon)moeders van 70+ gebruiken het ook!
+Vroeger moest je veel typen in zwarte schermen (de terminal), maar dat is allang niet meer zo. Moderne versies van Linux zien er prachtig uit en werken bijna hetzelfde als Windows. Je hebt een startmenu, een taakbalk en een 'app store' waar je met één klik programma's installeert. Zoals we al zeiden: onze moeders gebruiken het ook!
 
 ### 3. Kan ik mijn vertrouwde programma's blijven gebruiken?
 Voor bijna alles is een alternatief:
@@ -34,10 +34,12 @@ Nee hoor! We kunnen Linux op een USB-stick zetten. Je start je computer dan op v
 Er is geen addertje. De filosofie achter open-source is dat software een publiek goed moet zijn, net als de bibliotheek. Veel bedrijven (zoals Google en Tesla) gebruiken Linux en investeren erin, waardoor het voor de gewone gebruiker gratis blijft.
 
 ### 7. Moet ik een expert zijn om naar het Linux Café te komen?
-Absoluut niet! De meeste mensen die bij ons komen zijn beginners. Het doel van het café is juist om elkaar te helpen. Of je nu komt met een concrete vraag of gewoon even wilt kijken wat Linux is: je bent welkom.
+Absoluut niet! De meeste mensen die bij ons komen zijn beginners. Het doel van het café is juist om elkaar te helpen. Of je nu komt met een concrete vraag of gewoon even wilt kijken wat Linux is: je bent welkom. We geloven in vrije keuze en privacy, dus je kunt ons ook online vinden via de platformen die bij jou passen. Volg onze verhalen en foto's in de [Facebook-groep](https://www.facebook.com/groups/linuxcafehaarlem/) of praat mee via [Matrix](https://matrix.to/#/@linuxcafehaarlem:matrix.org) voor het échte decentrale open-source gevoel.
 
-### 8. Moet ik me vooraf aanmelden?
-Moet niet, maar het is wel handig omdat we kleinschalig willen blijven en iedereen persoonlijke aandacht willen geven (max. 4 personen per groepje), dus vragen we je om je aan te melden via [Telegram](https://t.me/+6RERHbiTNRk5MjQ0). Zo weten we zeker dat er een stoel en een expert voor je klaarstaan.
+### 8. Moet ik me vooraf aanmelden voor de vrijdagmorgen?
+Meld je vooraf aan, want we willen kleinschalig blijven en iedereen persoonlijke aandacht geven (max. 4 personen per groepje). Zo weten we zeker dat er een stoel en een expert voor je klaarstaan. Aanmelden kan heel eenvoudig via:
+* **Telegram:** [Join onze Telegram-groep](https://t.me/+6RERHbiTNRk5MjQ0) (ons mainstream kanaal).
+* **Signal:** [Word lid van onze Signal-groep](https://signal.group/#CjQKIIjfzVd0i9mlIPP8iJJqj39TXuB4sGXy-Mg1WoP7lmq_EhB7CCEG1Te4nOlI6Eh9253w) (voor de privacy-bewuste gebruiker).
 
 ### 9. Helpen jullie ook met hardware-reparaties?
 Als je laptop traag is door software, lossen we dat op met Linux. Is je scherm kapot of je toetsenbord defect? Dan kijken we samen met onze partners van het **Linux Repair Café** of **Laptop Revive** of we onderdelen kunnen vervangen. Gooi het in ieder geval niet weg!
