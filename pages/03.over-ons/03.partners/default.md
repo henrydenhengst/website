@@ -21,7 +21,7 @@ Linux Café Haarlem maakt onderdeel uit van [**Linux Kennis Computer Centrum (LK
 
 - [**Laptop Revive**](https://www.laptoprevive.nl/) – Geeft laptops een tweede leven #NL
 
-- [**Linux Repair Café**](https://www.repaircafe.org/linux-repair-cafe/) – Hardware herstel met een open-source hart #NL
+- [**Linux Repair Café**](https://www.repaircafe.org/cafe/linux-repair-cafe-haarlem/) – Hardware herstel met een open-source hart #NL
 
 - [**BuurtLinux**](https://buurtlinux.nl/) – Linux hulp, direct in de buurt #NL
 
