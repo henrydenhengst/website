@@ -33,6 +33,8 @@ We vieren onze groei! De 100ste volger van onze Facebook-groep wint een **Acer S
 
 ### Volgende bijeenkomst:
 📍 **Locatie:** Het Open Huis Haarlem  
+Professor Boumanstraat 1
+2035 AS Haarlem
 🕙 **Tijd:** vrijdag van 10:00 tot 12:00 uur  
 👥 **Toegang:** Gratis voor iedereen!
 
