@@ -9,7 +9,7 @@ sitemap:
 
 Welkom bij het Linux Café Haarlem. Wij geloven dat technologie toegankelijk, duurzaam en in eigen beheer moet zijn. In een tijd waarin digitale afhankelijkheid groeit, zetten wij ons in voor **Digital Sovereignty** (digitale soevereiniteit) en een circulaire economie.
 
-### Waarom meedoen?
+**Waarom meedoen?**
 Bij Linux Café Haarlem draait het niet om het verkopen van producten, maar om het creëren van waarde voor de Haarlemse gemeenschap. Door gedoneerde hardware een tweede leven te geven met vrije en open-source software, maken we technologie inclusief en duurzaam. 
 
 Wanneer je bij ons instapt, werk je aan:
@@ -28,15 +28,12 @@ Klaar om jouw steentje bij te dragen? Bekijk hieronder onze openstaande rollen e
 - **Type rol:** Stagiair / Vrijwilliger 
 - **Tijdsbesteding:** 4-8 uur per week
 - **Locatie:**  Technische Locatie, Haarlem 
-### Profiel
 
+### Profiel
 Verantwoordelijk voor de fysieke verwerking van gedoneerde apparatuur. Zorgt dat elke laptop volgens de gestelde standaard klaargemaakt wordt voor gebruik.
 
 ### Taken
-
-DOELSTELLING
-
-VERANTWOORDELIJKHEDEN
+DOELSTELLING / VERANTWOORDELIJKHEDEN
 - Fysieke inspectie en reiniging van binnenkomende hardware.
 - Uitvoeren van het 'Happy Path' installatieprotocol:
   1. Aansluiten op netwerk.
@@ -64,15 +61,14 @@ Kernprincipe: Meters maken op basis van een vast protocol; kwaliteit door consis
 - **Type rol:** Stagiair / Vrijwilliger 
 - **Tijdsbesteding:** 4-8 uur per week
 - **Locatie:** Het Open Huis, Haarlem
+
 ### Profiel
 Verantwoordelijk voor de zichtbaarheid en administratieve afhandeling van het project. Zorgt dat alle communicatie verloopt volgens de 
 afgesproken templates en planning.
 
 ### Taken
 
-DOELSTELLING
-
-VERANTWOORDELIJKHEDEN
+DOELSTELLING / VERANTWOORDELIJKHEDEN
 - Up-to-date houden van de website (evenementen, nieuws).
 - Onderhouden van social media kanalen op basis van de contentkalender.
 - Verwerken van e-mailverkeer (beantwoorden van vragen/donaties) middels vaste templates.
@@ -107,7 +103,6 @@ technische infrastructuur. Vertaalt de strategische eisen naar
 onderhoudbare Ansible-playbooks en Netboot.xyz-configuraties.
 
 ### Taken
-
 VERANTWOORDELIJKHEDEN
 - Onderhoud van de 'Happy Path' infrastructuur voor de uitvoerders.
 - Versiebeheer van playbooks en Netboot-configs (Github).
@@ -139,8 +134,8 @@ Kernprincipe: Bouwt de gereedschapskist; laat de uitvoerders het werk doen.
 Verantwoordelijk voor de externe positionering en de duurzaamheid 
 van het project. Vertaalt de strategische visie naar een concrete 
 communicatie-roadmap en beheert de relaties met partners en gemeente.
-### Taken
 
+### Taken
 VERANTWOORDELIJKHEDEN
 - Ontwikkeling van de contentstrategie en bewaking van de 'tone-of-voice'.
 - Opstellen en bijhouden van subsidie-aanvragen en verantwoordingen.
@@ -169,14 +164,12 @@ Kernprincipe: Bouwt de brug naar de buitenwereld; faciliteert groei en continuï
 **Locatie:** Het Open Huis, Haarlem
 
 ### Profiel
-
 Het gezicht en de stem van Linux Café Haarlem. Deze persoon 
 vertaalt jouw technische architectuur naar maatschappelijke 
 waarde en zorgt dat de stichting wordt gezien, gehoord en 
 financieel ondersteund.
 
 ### Taken
-
 VERANTWOORDELIJKHEDEN
 - Netwerker: Gebruikt zijn/haar netwerk in Haarlem om partners, 
   sponsors en donateurs aan boord te krijgen.
