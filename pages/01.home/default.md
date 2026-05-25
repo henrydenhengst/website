@@ -20,14 +20,12 @@ Zelf gebruik ik hardware van ruim 10 jaar oud en het draait weer als een treintj
 * **Gezelligheid:** Geen vaste lessen of verplicht niveau—iedereen helpt elkaar op zijn of haar eigen tempo.
 
 ---
-
 ## 🎁 Winactie: De 100ste volger wint!
 We vieren onze groei! De 100ste volger van onze Facebook-groep wint een **Acer Spin 1** laptop, volledig klaargestoomd met Linux.
 ![Win een Laptop](win-een-laptop.webp)
 👉 [**Sluit je aan op Facebook**](https://www.facebook.com/groups/linuxcafehaarlem/)
 
 ---
-
 ### Volgende bijeenkomst:
 📍 **Locatie:** Het Open Huis Haarlem  
 Professor Boumanstraat 1  
@@ -36,7 +34,6 @@ Professor Boumanstraat 1
 👥 **Toegang:** Gratis voor iedereen!  
 
 ---
-
 [Cookie Beleid (EU)](https://st-lkcc.nl/cookiebeleid-eu/)
 
 > © 2026 **Stichting Linux Kennis Computer Centrum** | KvK: 82063214 | SBI 94993 | RSIN: 862322431 |  [ANBI-status](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
