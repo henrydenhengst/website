@@ -41,7 +41,14 @@ Bent u een IT-bedrijf, makelaar, woningbouwvereniging of andere organisatie in H
 
 Elke bijdrage helpt, groot of klein. Of het nu gaat om financiële steun, onderdelen, oude hardware of een ruimte: samen maken we er iets moois van.
 
-**ANBI-status:** Stichting Linux Kennis Computer Centrum beschikt over een ANBI-status. Dit maakt doneren voor zowel particulieren als bedrijven fiscaal aantrekkelijk. Wij informeren u graag over de voordelen hiervan.
+Samen werken aan impact
+
+Wij geloven niet in een eenzijdige relatie. Wanneer u ons steunt, bieden wij u:
+
+- **Meetbare MVO-impact:** Wij houden bij hoeveel hardware we een tweede leven geven, wat u kunt gebruiken voor uw eigen duurzaamheidsrapportage.
+- **Naamsvermelding:** Uw logo op onze website als gewaardeerde partner.
+- **Fiscaal voordeel:** Dankzij onze ANBI-status is uw gift fiscaal aftrekbaar.
+- **Kennisdeling:** De mogelijkheid tot workshops of consultatie over open-source software en privacy voor uw organisatie.
 
 ## Meedoen?
 
