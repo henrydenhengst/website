@@ -1,6 +1,6 @@
 ---
 sitemap:
-    lastmod: '25-05-2026 9:15'
+    lastmod: '25-05-2026 9:30'
 ---
 
 # Sponsor Linux Café Haarlem
