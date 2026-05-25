@@ -3,7 +3,7 @@ sitemap:
     lastmod: '25-05-2026 9:15'
 ---
 
-# Help ons bouwen aan een duurzame toekomst
+# Sponsor Linux Café Haarlem
 
 Soms is er maar een kleine upgrade nodig, zoals een SSD, extra geheugen of een wifi-dongle, om een machine echt goed te laten werken.
 
