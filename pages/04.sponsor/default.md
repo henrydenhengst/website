@@ -29,8 +29,8 @@ Om onze missie verder uit te breiden, zoeken wij een vaste werkruimte in Haarlem
 
 **Wat wij zoeken:**
 
-- Een ruimte met elektriciteit en een stabiele ethernetverbinding naar het internet.
-- Basisvoorzieningen zoals een bureau, stoel en kastruimte voor opslag.
+- Een ruimte met elektriciteit en een stabiele ethernetverbinding naar het internet;
+- Basisvoorzieningen zoals een bureau, stoel en kastruimte voor opslag;
 - De ruimte zal fungeren als centraal punt voor bulk-installaties, software-ontwikkeling, hardware-testen en reparaties.
 
 ### Een oproep aan lokale bedrijven en organisaties:
