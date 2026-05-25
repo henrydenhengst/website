@@ -13,7 +13,6 @@ sitemap:
 **De plek waar code en koffie samenkomen.**
 Heb jij nog een oude laptop of desktop computer ergens in huis liggen? Krijg je geen ondersteuning meer van Microsoft, Apple of Google? Gooi hem niet weg! Met Linux op je hardware kun je gewoon weer verder. 
 Zelf gebruik ik hardware van ruim 10 jaar oud en het draait weer als een treintje. Het leuke is... dat kun jij ook!
-
 ### Wat kun je verwachten?
 * **Samen leren & bouwen:** We werken in kleine groepjes (max. 4 personen) voor persoonlijke aandacht.
 * **Hulp bij installatie:** Nog geen Linux? Geen probleem, wij helpen je stap voor stap.
