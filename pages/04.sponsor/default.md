@@ -11,7 +11,7 @@ Soms is er maar een kleine upgrade nodig, zoals een SSD, extra geheugen of een w
 
 ## Sponsors gezocht
 
-Daarvoor zijn we soms afhankelijk van een sponsor. Op andere momenten bewaren we hardware eerst op voorraad, totdat we alles bij elkaar hebben om er samen een mooie, goed werkende machine van te maken. Daarnaast zijn we blij met donaties van oude hardware; juist die onderdelen kunnen vaak nog heel waardevol zijn en een tweede leven krijgen in een nieuw geheel.
+Soms zijn we afhankelijk van een sponsor. Op andere momenten bewaren we hardware eerst op voorraad, totdat we alles bij elkaar hebben om er samen een mooie, goed werkende machine van te maken. Daarnaast zijn we blij met donaties van oude hardware; juist die onderdelen kunnen vaak nog heel waardevol zijn en een tweede leven krijgen in een nieuw geheel.
 
 ## Uw steun maakt verschil
 
