@@ -15,6 +15,8 @@ Linux Café Haarlem maakt onderdeel uit van [**Linux Kennis Computer Centrum (LK
 
 - [**Het Open Huis Haarlem**](https://hetopenhuishaarlem.nl/) – Onze gastvrije thuisbasis
 
+- [**De Bibliotheek Zuid-Kennemerland**](https://www.bibliotheekzuidkennemerland.nl/) – We helpen de bibliotheek met allerlei Open Source activiteiten
+
 - [**Buurts**](https://buurts.nl/) – Versterkt de sociale samenhang in de wijk
 
 ## Regionale & Landelijke Expertise
