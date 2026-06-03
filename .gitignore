@@ -1,1 +1,8 @@
 safe_git_push.sh
+/cache/*
+/logs/*
+/backup/*
+/images/*
+/tmp/*
+/vendor/*
+/accounts/*
