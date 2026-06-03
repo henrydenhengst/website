@@ -19,7 +19,7 @@ Linux Café Haarlem maakt onderdeel uit van [**Linux Kennis Computer Centrum (LK
 
 - [**Buurts**](https://buurts.nl/) – Versterkt de sociale samenhang in de wijk
 
-[**Launchpad023**](https://www.launchpad023.nl/) – Launchpad organiseert soortgelijke open source activiteiten in de Waarderpolder, maar meer voor de zakelijke markt.
+- [**Launchpad023**](https://www.launchpad023.nl/) – Launchpad organiseert soortgelijke open source activiteiten in de Waarderpolder, maar meer voor de zakelijke markt.
 
 ## Regionale & Landelijke Expertise
 
