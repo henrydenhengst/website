@@ -9,7 +9,7 @@ En eerlijk is eerlijk: als wij al die keuzes aan jou voorleggen, word je strontz
 
 ## Daarom vertrouw je op ons.
 
-Wij hebben samen **36 jaar Unix/Linux-professionaliteit** in onze vingers. Wij weten welke keuzes werken, en welke je beter kunt vermijden. Jij hoeft alleen maar te vertrouwen dat wij het goede doen.
+Wij hebben samen **vele decennia aan Unix/Linux-professionaliteit** in onze vingers. Wij weten welke keuzes werken, en welke je beter kunt vermijden. Jij hoeft alleen maar te vertrouwen dat wij het goede doen.
 
 ## Wat wij van jou moeten weten (5 simpele vragen)
 
