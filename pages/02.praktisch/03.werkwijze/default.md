@@ -22,7 +22,7 @@ Om de perfecte Linux-machine voor jou te bouwen, stellen wij je dit voor:
    (Windows? Mac? Een oude laptop? Dit bepaalt hoe het eruit komt te zien en aanvoelt.)
 
 3. **Waar baalde je het meest van op je oude machine?**  
-   (Traagheid? Onbegrijpelijke menu’s? Vervelende updates? Zeg het eerlijk – dáár gaan we op hameren.)
+   (Traagheid? Onbegrijpelijke menu’s? Vervelende updates? Zeg het eerlijk – dan gaan we dat bouwen.)
 
 4. **Hoeveel mogen wij sleutelen aan je vertrouwde manier van werken?**  
    (Wil je het liefst alles hetzelfde houden, of mag het best wat anders als het sneller/lekkerder werkt?)
