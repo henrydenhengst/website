@@ -35,7 +35,6 @@ Professor Boumanstraat 1
 
 ---
 
-
 > Copyleft ↄ 2026 **Linux Cafe Haarlem**. Gelicenseerd onder [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.nl).
 **Stichting Linux Kennis Computer Centrum** | KvK: 82063214 | SBI 94993 | RSIN: 862322431 |  [ANBI-status](https://st-lkcc.nl/blog/2025/05/17/bestuurlijke-stukken-stichting-linux-kennis-computer-centrum/)
 
